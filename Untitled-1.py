@@ -1,11 +1,4 @@
-("hellow,world!")
-
-numbers = [1,2,3,4,5]
-number=6
-numbers.append(number)
-print(numbers)
-
-
+("helloe,world !")
 
 numbers=[1,2,3,4,5]
 number=6
@@ -13,28 +6,27 @@ numbers.append(number)
 print(numbers)
 
 
+numbers=[3,4,5,6]
+number=7
+numbers.append(number)
+print(numbers)
 
 
-numbers=[3,4,5]
-number=6
+numbers=[7,8]
+number=9
 numbers.append(number)
 print(numbers)
 
 
 
-
-
-
-
-numbers=[1,2]
-number=3
+numbers=[5,6,7]
+number=8
 numbers.append(number)
 print(numbers)
 
 
 
-
-
-print(*number, sep='|')
-print(*number, sep=',')
-print(*number)
+numbers=[3,4,5,6,7,8]
+number=9
+numbers.append(number)
+print(numbers)
